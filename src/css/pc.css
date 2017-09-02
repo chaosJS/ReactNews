@@ -1,0 +1,108 @@
+.logo {
+    align-items: center;
+    display: flex;
+}
+
+.logo img {
+    width: 48px;
+    height: 48px;
+}
+
+.logo span {
+    font-size: 20px;
+    padding-left: 5px;
+}
+
+.footer {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.register {
+    float: right !important;
+    padding: 0 !important;
+}
+
+.ant-menu-horizontal>.ant-menu-item>a, .ant-menu-horizontal>.ant-menu-submenu>a {
+    display: inline-block !important;
+}
+
+.container{
+  padding-top: 10px;
+}
+
+.leftContainer {
+    width: 400px;
+    float: left;    
+    overflow: hidden;
+    margin-right: 15px;
+}
+.ant-carousel .slick-list{
+    /* 关键属性， */
+    height: 240px!important;
+}
+.carousel {
+    width: 400px;
+    /* float: left; */
+    overflow: hidden;
+}
+.carousel img {
+    width: 400px;
+}
+
+.ant-tabs-nav-wrap{
+    height: 45px;
+}
+.tabs_news{
+    width: 450px;
+    float: left;
+}
+
+.tabs_news li {
+    height: 27px;
+    line-height: 27px;
+    font-size: 14px;
+    white-space: nowrap;
+    overflow: hidden;
+    width: 417px;
+    text-overflow: ellipsis;
+}
+.ant-card-body{
+    padding: 15px!important;
+}
+.tabs_news li a{
+    line-height: 22px !important;
+    color: #666 !important;
+}
+.tabs_news li a:hover{
+    color: #57c5f7!important;
+}
+
+/* 图片块样式 */
+.topNewsList{
+    margin-bottom: 10px;
+}
+.imageblock {
+    display: inline-block;
+    margin-left: 10px;
+    margin-bottom: 3px;
+}
+
+/* 考过来的product样式 */
+
+.tabs_product{
+    padding-left: 10px;
+}
+.productlinks-item {
+    text-align: left;
+    line-height: 25px;
+    -webkit-transition: all .3s;
+    -moz-transition: all .3s;
+    -o-transition: all .3s;
+    transition: all .3s;
+}
+
+.productlinks-item a {
+    padding: 0 4px 0 0;
+    white-space: nowrap;
+}
