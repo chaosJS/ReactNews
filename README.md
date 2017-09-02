@@ -1,3 +1,7 @@
+# ReactNews
+使用react做的新闻类网页
+
+
 webpack-dev-server --contentbase src --inline --hot
 
 ###react的响应式布局组件###
@@ -29,3 +33,5 @@ npm install react-pull-to-refresh@1.0.6 --save 上拉刷新加载更多
 功能在移动端国内新闻
 
 还有一个redux的小示例：redux-demo
+
+
